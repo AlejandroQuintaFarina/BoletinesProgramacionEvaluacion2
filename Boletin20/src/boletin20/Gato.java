@@ -13,12 +13,12 @@ public class Gato extends Felino implements IPodeNadar{
 
     @Override
     public void camiñar() {
-        System.out.println("Gato caminado "); 
+        System.out.println(" Gato caminado "); 
     }
 
     @Override
     public void nadar() {
-        System.out.println("Gato nadando"); 
+        System.out.println(" Gato nadando "); 
     }
     
 }
